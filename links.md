@@ -1,3 +1,7 @@
+---
+permalink: /LINKS/
+---
+
 ## Links :pushpin:
 Feel free to check these out, I hope you find it insightful :grin:
 
