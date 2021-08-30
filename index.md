@@ -1,9 +1,9 @@
-# Operating System 2021-2022 :space_invader:
+# Operating System 2021-2022 👾  
 [LOG](TXT/mylog.txt) | [REPOSITORY](https://github.com/Feibs/os212) | [LINKS](LINKS/)
 
-Hi! This is __Febi__ :smile:  
+Hi! This is __Febi__ 😄  
 Welcome to my page for Operating Systems 2021-2022 Class!  
 
 ---  
 
-__:computer: with :hearts: by Feibs__
+__💻 with ♥️ by Feibs__
