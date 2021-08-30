@@ -2,8 +2,8 @@
 permalink: /LINKS/
 ---
 
-## Links :pushpin:
-Feel free to check these out, I hope you find it insightful :grin:
+## Links 📌
+Feel free to check these out, I hope you find it insightful 😁   
 
 ```work on progress, will be updated soon...```
 
@@ -20,7 +20,7 @@ Feel free to check these out, I hope you find it insightful :grin:
  
 ___
 
-__:computer: with :hearts: by Feibs__
+__💻 with ♥️ by Feibs__
 
 
 
