@@ -14,15 +14,6 @@ Feel free to check these out, I hope you find it insightful 😁
 📍 OS also made it possible for many programs to be processed at the same time on a single CPU. To accomodate multitasking, memory allocation should be organized. With Virtual Memory, all programs assumed the memory started at address 0, so programs wouldn't be scattered all over the memory. Meanwhile, the physical location in memory was hidden and abstracted by OS. This enabled dynamic memory allocation and memory protection. _Atlas_ was the first computer and OS to support those features.  
 📍 Thanks to dedicated research for inventing and developing OS, now we have that awesome OS running in our pc and mobile phone which allows us to do multitasking, thus making our life easier and happier!  
 Let's dive more into it in upcoming weeks ✨   
-2.  
-3.  
-4.  
-5.  
-6.  
-7.  
-8.  
-9.  
-10. 
  
 ___
 
