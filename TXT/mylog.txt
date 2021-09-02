@@ -2,9 +2,12 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC W00 05 L01 SCELE/Discord related
-ZCZC W00 90 L06 References/Books/Documents/GSGS related
-ZCZC W00 05 L03 GitHub related
-ZCZC W00 15 L04 GitHub Pages related
-ZCZC W00 100 L02 ZOOM meetings related
-ZCZC W00 30 L04 Github Pages related
+ZCZC W00 05 L01 Enroll SCELE/Discord
+ZCZC W00 90 L06 Explore References/Books/Documents for W0 Lesson
+ZCZC W00 05 L03 Register GitHub Account to GForm and SCELE
+ZCZC W00 15 L04 Create GitHub Page
+ZCZC W00 100 L02 ZOOM Meetings
+ZCZC W00 30 L04 Update Github Page by Creating index.md and link.md
+ZCZC W00 60 L04 Explore and Summarize Video for Links Page
+ZCZC W00 100 L02 ZOOM Meetings
+ZCZC W00 10 L04 Update Github Page by Updating link.md
