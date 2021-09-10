@@ -1,13 +1,29 @@
+
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC W00 05 L01 Enroll SCELE/Discord
-ZCZC W00 90 L06 Explore References/Books/Documents for W0 Lesson
-ZCZC W00 05 L03 Register GitHub Account to GForm and SCELE
-ZCZC W00 15 L04 Create GitHub Page
-ZCZC W00 100 L02 ZOOM Meetings
-ZCZC W00 30 L04 Update Github Page by Creating index.md and link.md
-ZCZC W00 60 L04 Explore and Summarize Video for Links Page
-ZCZC W00 100 L02 ZOOM Meetings
-ZCZC W00 10 L04 Update Github Page by Updating link.md
+ZCZC W00 05  L01 Enroll SCELE/Discord
+ZCZC W00 90  L06 Explore documents & videos for W0 lesson
+ZCZC W00 05  L03 Register Github account to GForm and SCELE
+ZCZC W00 05  L10 Assignment #00
+ZCZC W00 15  L04 Create Github Page
+ZCZC W00 100 L02 ZOOM meeting for class 
+ZCZC W00 30  L04 Update Github Page by creating index.md and link.md
+ZCZC W00 60  L04 Explore and summarize video for Links Page
+ZCZC W00 100 L02 ZOOM meeting for class 
+ZCZC W00 10  L04 Update Github Page by updating link.md
+ZCZC W00 90  L05 Studying for quiz
+ZCZC W01 05  L22 Quiz
+ZCZC W01 100 L02 ZOOM meeting for class
+ZCZC W01 05  L11 Assignment #01
+ZCZC W01 30  L31 Install and set-up VirtualBox
+ZCZC W01 120 L08 Assistance session with AsDos
+ZCZC W01 100 L02 ZOOM meeting for class
+ZCZC W01 60  L08 Assistance session with AsDos
+ZCZC W01 05  L28 Learn to use PuTTY and WinSCP
+ZCZC W01 300 L62 Install Debian Guest from scratch, learn running it
+ZCZC W01 10  L06 Watch video of basic vi commands
+ZCZC W01 240 L62 Update Debian Guest, add new username, create bash
+ZCZC W01 90  L28 Set up SSH key and clone repo
+ZCZC W01 180 L21 Updating log using vi
