@@ -26,6 +26,7 @@ Let's dive more into it in upcoming weeks ✨
 
 ### 5.[What is PGP/GPG Encryption? In 3 Minutes Tutorial for Beginners](https://www.youtube.com/watch?v=1-MPcUHhXoc) 🎬
 📍 GPG protects your messages with your friend by utilizing two keys: public key and private key. To familiarize yourself with this awesome concept, watch this very short video explaining GPG with funny illustration ✨ 
+
 ___
 
 __💻 with ♥️ by Feibs__
