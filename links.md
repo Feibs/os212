@@ -14,11 +14,16 @@ Feel free to check these out, I hope you find it insightful 😁
 📍 OS also made it possible for many programs to be processed at the same time on a single CPU. To accomodate multitasking, memory allocation should be organized. With Virtual Memory, all programs assumed the memory started at address 0, so programs wouldn't be scattered all over the memory. Meanwhile, the physical location in memory was hidden and abstracted by OS. This enabled dynamic memory allocation and memory protection. _Atlas_ was the first computer and OS to support those features.  
 📍 Thanks to dedicated research for inventing and developing OS, now we have that awesome OS running in our pc and mobile phone which allows us to do multitasking, thus making our life easier and happier!  
 Let's dive more into it in upcoming weeks ✨   
- 
+
+### 2. [StackEdit: In-browser Markdown Editor](https://stakedit.io/app#) 🎬
+📍 This is an online markdown editor that I find it very helpful if you want to create a markdown draft before pushing it to GitHub. You can write or edit your markdown code here and it will be rendered ⚡ right away ⚡ so you can quickly check if your code meets your goal (don't worry about losing your work because you accidentally close the page, this editor saves your last session). Of course you can use your own favorite code editor on your laptop, but the efficiency this online markdown editor provides is just amazing  ✨ 
+
+### 3. [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#computer)
+📍 Since now we know an online markdown editor, let me add this as one of the useful links for writing markdown--yes, emoji! Thank you, _ikatyang_ for making this list of emojis 🙌 Although it is not really necessary for this course, you can use the emoji to add a bit of awesomeness to your markdown page ✨ 
+
+### 4. [RegExr: Learn, Build, & Test RegEx](https://regexr.com/)
+📍 This one is an online tool for testing your regular expression. You can input the regex, text, and test cases here. It also provides cheatsheet on the side bar to help you write the regex. You might need to adjust the syntax a little bit before implementing the regex you write here to your bash, especially for the flags. Nevertheless, I think this is a really nice tool to have for practicing regex ✨
+
 ___
 
 __💻 with ♥️ by Feibs__
-
-
-
-
