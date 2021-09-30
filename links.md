@@ -29,7 +29,16 @@ Let's dive more into it in upcoming weeks ✨
 
 ### 6. [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) 🎬
 📍 Have you ever wondered about all of the directories in your Linux? This video explains each of those in a compact way from the name of the dir itself, the content, and the description. Be ready to know your OS better ✨
- 
+
+### 7. [Virtual Memory: Page Tables](https://www.youtube.com/watch?v=KNUJhZCQZ9c) 🎬
+📍Part One - This video explains Page Table, which is the map from Virtual Addresses to Physical Addresses. Hopefully this explanation can be useful for you to learn more about "what, why, and how" of the page table in virtual memory ✨
+
+### 8. [Virtual Memory: Address Translation](https://www.youtube.com/watch?v=ZjKS1IbiGDA) 🎬
+📍Part Two - This video explains Address Translation by Page Table. I hope you find this explanation helpful as it gives visualization of the offset and mapping from virtual addresses to physical addresses ✨
+
+### 9. [Virtual Memory: Address Translation Example Walkthrough](https://www.youtube.com/watch?v=6neHHkI0Z0o) 🎬
+📍Part Three - This video explains more examples of address translation. It is also a good idea to try to answer the given questions in the video before watching the explanation of the correct answer. Let's do this walkthrough ✨ 
+
 ___
 
 __💻 with ♥️ by Feibs__
