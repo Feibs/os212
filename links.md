@@ -39,6 +39,12 @@ Let's dive more into it in upcoming weeks ✨
 ### 9. [Virtual Memory: Address Translation Example Walkthrough](https://www.youtube.com/watch?v=6neHHkI0Z0o) 🎬
 📍Part Three - This video explains more examples of address translation. It is also a good idea to try to answer the given questions in the video before watching the explanation of the correct answer. Let's do this walkthrough ✨ 
 
+### 10. [FIFO Algorithm for Page Replacement](https://www.youtube.com/watch?v=nkV11C8G998) 🎬
+📍 You may have heard FIFO: First In First Out. In operating system, FIFO is one of many algorithms for page replacement. If you haven't really understood yet about how it works, don't be troubled because fortunately this video explains the exact same example from our slide material ✨
+
+### 11. [Optimal Algorithm for Page Replacement] (https://www.youtube.com/watch?v=LvBpXzqKWDE) 🎬
+📍 Another algorithm for page replacement is the optimal one. Feel free to watch the walkthrough (still using our slide's example). May this video can help you comprehend this chapter even more ✨ 
+
 ___
 
 __💻 with ♥️ by Feibs__
