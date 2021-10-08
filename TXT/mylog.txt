@@ -73,3 +73,18 @@ ZCZC W04 30  L16 Assignment #06
 ZCZC W04 15  L17 Assignment #07
 ZCZC W04 10  L18 Assignment #08
 ZCZC W04 20  L19 Assignment #09
+ZCZC W05 20  L22 Quiz
+ZCZC W05 100 L02 Zoom meeting for class
+ZCZC W05 100 L02 Zoom meeting for class
+ZCZC W05 20  L01 Assignment #01
+ZCZC W05 10  L02 Assignment #02
+ZCZC W05 90  L03 Assignment #03
+ZCZC W05 120 L04 Assignment #04
+ZCZC W05 60  L05 Assignment #05
+ZCZC W05 60  L06 Assignment #06
+ZCZC W05 30  L07 Assignment #07
+ZCZC W05 10  L08 Assignment #08
+ZCZC W05 05  L09 Assignment #09
+
+
+
