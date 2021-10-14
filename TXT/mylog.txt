@@ -76,12 +76,27 @@ ZCZC W04 20  L19 Assignment #09
 ZCZC W05 20  L22 Quiz
 ZCZC W05 100 L02 Zoom meeting for class
 ZCZC W05 100 L02 Zoom meeting for class
-ZCZC W05 20  L01 Assignment #01
-ZCZC W05 10  L02 Assignment #02
-ZCZC W05 90  L03 Assignment #03
-ZCZC W05 120 L04 Assignment #04
-ZCZC W05 60  L05 Assignment #05
-ZCZC W05 60  L06 Assignment #06
-ZCZC W05 30  L07 Assignment #07
-ZCZC W05 10  L08 Assignment #08
-ZCZC W05 05  L09 Assignment #09
+ZCZC W05 20  L11 Assignment #01
+ZCZC W05 10  L12 Assignment #02
+ZCZC W05 90  L13 Assignment #03
+ZCZC W05 120 L14 Assignment #04
+ZCZC W05 60  L15 Assignment #05
+ZCZC W05 60  L16 Assignment #06
+ZCZC W05 30  L17 Assignment #07
+ZCZC W05 10  L18 Assignment #08
+ZCZC W05 05  L19 Assignment #09
+ZCZC W06 20  L22 Quiz
+ZCZC W06 45  L05 Review quiz
+ZCZC W06 15  L01 Check each forum on Scele
+ZCZC W06 30  L06 Explore material from last year's recording video
+ZCZC W06 120 L02 Zoom meeting for class
+ZCZC W06 20  L06 Explore process commands on YouTube
+ZCZC W06 30  L11 Assignment #01
+ZCZC W06 75  L12 Assignment #02
+ZCZC W06 15  L13 Assignment #03
+ZCZC W06 30  L14 Assignment #04
+ZCZC W06 10  L15 Assignment #05
+ZCZC W06 05  L16 Assignment #06
+ZCZC W06 10  L17 Assignment #07
+ZCZC W06 10  L18 Assignment #08
+ZCZC W06 15  L19 Assignment #09
