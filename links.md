@@ -5,8 +5,6 @@ permalink: /LINKS/
 ## Links 📌
 Feel free to check these out, I hope you find it insightful 😁   
 
-```work on progress, will be updated soon...```
-
 ### 1. [Operating Systems: Crash Course Computer Science #18](https://www.youtube.com/watch?v=26QPDBe-NB8) 🎬  
 📍 It feels right to put this video on the top of the list since this is the first video about Operating System that I've watched before becoming a CS student. This introduction video of Operating System will take you to an adventurous time travel to the past!  
 📍 Back in the day, executing program was done manually. Programmers wrote their codes on punch card, carried it to a room-sized computer, then handed it to computer operators to input the codes to computer. Therefore, the invention of OS came as the solution to automatically operate computer by batches.  
@@ -44,6 +42,9 @@ Let's dive more into it in upcoming weeks ✨
 
 ### 11. [Optimal Algorithm for Page Replacement](https://www.youtube.com/watch?v=LvBpXzqKWDE) 🎬
 📍 Another algorithm for page replacement is the optimal one. Feel free to watch the walkthrough (still using our slide's example). May this video can help you comprehend this chapter even more ✨ 
+
+### 12. [Linux processes, init, fork, exec, ps, kill, fg, bg, jobs](https://www.youtube.com/watch?v=TJzltwv7jJs) 🎬
+📍 Starting with an overview of init system that is called by kernel when we boot the machine, this video then elaborates many Linux commands for processes. Those are _fork_ for making copy of process, _exec_ for replacing a process with another, _ps_ for getting information on process status, _kill_ for terminating process, _fg_ for starting process on foreground, _bg_ for assigning process to background, and _jobs_ for getting information on running job ✨ 
 
 ___
 
