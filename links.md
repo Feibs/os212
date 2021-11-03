@@ -46,6 +46,12 @@ Let's dive more into it in upcoming weeks ✨
 ### 12. [Linux processes, init, fork, exec, ps, kill, fg, bg, jobs](https://www.youtube.com/watch?v=TJzltwv7jJs) 🎬
 📍 Starting with an overview of init system that is called by kernel when we boot the machine, this video then elaborates many Linux commands for processes. Those are _fork_ for making copy of process, _exec_ for replacing a process with another, _ps_ for getting information on process status, _kill_ for terminating process, _fg_ for starting process on foreground, _bg_ for assigning process to background, and _jobs_ for getting information on running job ✨ 
 
+### 13. [Synchronization Flash Card] (https://quizlet.com/124237023/ch-6-synchronization-flash-cards/)
+📍 These are some terms that we often encounter in the chapter of synchronization. You might find these flashcards practical to get to know the meaning of "producer-consumer problem", "race condition", "entry section", or simply the term of "synchronization" itself ✨
+
+### 14. [Shared Memory Systems] (https://www.youtube.com/watch?v=uHtzOFwgD74) 🎬
+📍 You might be curious about what is meant by shared memory systems on one of our assignment. This video explains the role of shared memory in solving producer-consumer problem which is using buffer to allow producer producing an item while the consumer is consuming another item concurrently. Watch to learn more about this buffer: the unbounded and the bounded one ✨ 
+
 ___
 
 __💻 with ♥️ by Feibs__
