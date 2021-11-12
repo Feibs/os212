@@ -52,6 +52,9 @@ Let's dive more into it in upcoming weeks ✨
 ### 14. [Shared Memory Systems](https://www.youtube.com/watch?v=uHtzOFwgD74) 🎬
 📍 You might be curious about what is meant by shared memory systems on one of our assignment. This video explains the role of shared memory in solving producer-consumer problem which is using buffer to allow producer producing an item while the consumer is consuming another item concurrently. Watch to learn more about this buffer: the unbounded and the bounded one ✨ 
 
+### 15. [Playlist of OS Scheduling](https://www.youtube.com/watch?v=EWkQl0n0w5M&list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk) 🎬
+📍 This playlist elaborates what is meant by CPU scheduling along with the various algorithms that can be used. To maximize performance, we can keep the CPU productive by switching CPU among processes. When one process is waiting (e.g., waiting for I/O request), OS will assign the CPU for another process. Therefore, CPU never sits idle: we always utilize it for another process. To determine which process should get the CPU, we should make scheduling. Stay tune in this playlist to learn more about CPU scheduling algorithms, such as FCFS, SJF, Priority Scheduling, Round Robin Scheduling, and Multilevel Scheduling ✨ 
+
 ___
 
 __💻 with ♥️ by Feibs__
