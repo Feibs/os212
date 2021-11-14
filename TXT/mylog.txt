@@ -118,3 +118,19 @@ ZCZC W07 05  L16 Assignment #06
 ZCZC W07 15  L17 Assignment #07
 ZCZC W07 15  L18 Assignment #08
 ZCZC W07 15  L19 Assignment #09
+ZCZC W08 20  L22 Quiz
+ZCZC W08 20  L05 Review Quiz
+ZCZC W08 10  L01 Check each forum on Scele
+ZCZC W08 60  L06 Explore material from last year's recording video
+ZCZC W08 100 L02 Zoom meeting for class
+ZCZC W08 45  L01 Answer question from Scele forum
+ZCZC W08 30  L11 Assignment #01
+ZCZC W08 40  L12 Assignment #02
+ZCZC W08 60  L13 Assignment #03
+ZCZC W08 90  L14 Assignment #04
+ZCZC W08 720 L15 Assignment #05
+ZCZC W08 45  L16 Assignment #06
+ZCZC W08 05  L17 Assignment #07
+ZCZC W08 10  L18 Assignment #08
+ZCZC W08 10  L19 Assignment #09
+ZCZC W08 05  L20 Assignment #10
