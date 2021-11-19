@@ -134,3 +134,14 @@ ZCZC W08 05  L17 Assignment #07
 ZCZC W08 10  L18 Assignment #08
 ZCZC W08 10  L19 Assignment #09
 ZCZC W08 05  L20 Assignment #10
+ZCZC W09 20  L22 Quiz
+ZCZC W09 20  L05 Review Quiz
+ZCZC W09 10  L01 Check each forum on Scele
+ZCZC W09 100 L02 Zoom meeting for class
+ZCZC W09 10  L01 Answer question from Scele forum
+ZCZC W09 15  L11 Assignment #01
+ZCZC W09 40  L12 Assignment #02
+ZCZC W09 60  L13 Assignment #03
+ZCZC W09 120 L14 Assignment #04
+ZCZC W09 10  L18 Assignment #08
+ZCZC W09 10  L19 Assignment #09
