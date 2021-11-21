@@ -142,6 +142,7 @@ ZCZC W09 10  L01 Answer question from Scele forum
 ZCZC W09 15  L11 Assignment #01
 ZCZC W09 40  L12 Assignment #02
 ZCZC W09 60  L13 Assignment #03
-ZCZC W09 240 L14 Assignment #04
-ZCZC W09 10  L18 Assignment #08
+ZCZC W09 300 L14 Assignment #04
+ZCZC W09 10  L17 Assignment #07
+ZCZC W09 15  L18 Assignment #08
 ZCZC W09 10  L19 Assignment #09
